@@ -4,7 +4,7 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 /**
- * @author Carlos Santos
+ * @author Jonathan Lameira
  */
 public class CPFEntityPropertyValidator implements ConstraintValidator<CPF, String> {
 
